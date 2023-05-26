@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TriviaTrails</string>
+    <string name="get_started">Get Started</string>
+    <string name="to_each_individual_the_world_will_take_on_a_different_connotation_of_meaning_the_important_lies_in_the_desire_to_search_for_an_answer">\'To each individual the world will take on a different connotation of meaning-the important lies in the desire to search for an answer\'.</string>
+    <string name="welcome_to_trivia">Welcome to trivia!</string>
+    <string name="select_your_category">Select your category</string>
+    <string name="sports">Sports</string>
+    <string name="video_games">Video games</string>
+    <string name="movies">Movies</string>
+    <string name="button">Button</string>
+    <string name="time_left_10sec">Time Left: 10sec</string>
+    <string name="_1_20">1/20</string>
+    <string name="_1">1.</string>
+    <string name="the_length_of_the_bridge_which_a_train_130_metres_long_and_travelling_at45_km_hrcan_cross_in_30_seconds_is">The length of the bridge, which a train 130 metres long and travelling at45 km/hrcan cross in 30 seconds, is:</string>
+    <string name="todo">TODO</string>
+    <string name="art">ART</string>
+    <string name="computers">computers</string>
+    <string name="mythology">MYTHOLOGY</string>
+    <string name="select_difficulty">Select difficulty</string>
+    <string name="easy">Easy</string>
+    <string name="medium">Medium</string>
+    <string name="hard">Hard</string>
+    <string name="anime_amp_manga"><![CDATA[Anime & Manga]]></string>
+</resources>
